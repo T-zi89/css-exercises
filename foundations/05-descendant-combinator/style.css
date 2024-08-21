@@ -1,0 +1,12 @@
+.container p {
+    text-align: center;
+    color: red;
+    font-size: 20px;
+    background-color: yellow;
+}
+
+/*also possible 
+div p
+div .text
+.container .text
+*/
